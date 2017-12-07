@@ -1,0 +1,4 @@
+*.bin
+*.json
+compat
+compat-bin
